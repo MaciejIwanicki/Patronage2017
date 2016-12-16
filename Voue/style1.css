@@ -1,0 +1,30 @@
+
+
+	
+	body{
+		background: #0040ff ;
+	}
+	.main{	
+		margin: auto;
+		background-color: #ff0000;
+		width: 50%;
+		height: 50%;
+	}
+
+	#myBox{
+  	  margin: auto;
+  	  width: 100px;
+  	  height: 100px;
+ 	  background-color: #ff8000;
+   	 
+}
+
+	#clickCount{
+		
+		width: 100px;
+  	    height: 100px;
+ 	  	background-color: #ff8000;
+	}
+	#clickCount:hover { 
+
+		color: red;}
